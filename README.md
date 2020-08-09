@@ -1,6 +1,6 @@
 ![Header Image](https://raw.githubusercontent.com/amirbagh75/my-infrastructure-rules/fa-version/header-image.jpg)
 
-# Rules derived from experience in infrastructure teams
+# Rules derived from experience in infrastructure teams ([persian version](https://github.com/amirbagh75/my-infrastructure-rules/tree/fa-version))
 As a person who has been a member/team leader of an infrastructure team, I decided to write down my mistakes and experiences once for all.
 
 - Simple processes and architectures precedes complexity.
@@ -18,4 +18,6 @@ As a person who has been a member/team leader of an infrastructure team, I decid
 
 **P.S. :** The real world usually differs from theory. If you need to break a rule, make sure it is broken intentionally,
 and have plans for its consequences and inform others.
+
+**P.S. :** Special thanks to [@mohammadrezza](https://github.com/mohammadrezza) for translating English
  
