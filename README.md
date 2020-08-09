@@ -11,11 +11,11 @@ As a person who has been a member/team leader of an infrastructure team, I decid
 - Immutable architecture precedes Mutable architecture.
 - Making repetitious and time-consuming processes with high chance of failure precedes handling them manually.
 - Maintaining Iac with VCS precedes maintaining them in servers or personal computers of infrastructure team members.
-- Backup/Restore mechanism as a part of every process precedes handling them later as separate tasks
+- Backup/Restore mechanism as a part of every process precedes handling them later as separate tasks.
 - Having an epistle checklist for any important and unimportant deploy change precedes mental checklist.
 
 **P.S:** These rules are not absolute and may evolve during time.
 
 **P.S:** The real world usually differs from theory. If you need to break a rule, make sure it is broken intentionally,
-and have plans for its consequences and inform others. .
+and have plans for its consequences and inform others.
  
