@@ -19,5 +19,5 @@ As a person who has been a member/team leader of an infrastructure team, I decid
 **P.S. :** The real world usually differs from theory. If you need to break a rule, make sure it is broken intentionally,
 and have plans for its consequences and inform others.
 
-**P.S. :** Special thanks to [@mohammadrezza](https://github.com/mohammadrezza) for translating English
+**P.S. :** Special thanks to [@mohammadrezza](https://github.com/mohammadrezza) for translating to English
  
