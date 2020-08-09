@@ -1,19 +1,21 @@
 ![Header Image](https://raw.githubusercontent.com/amirbagh75/my-infrastructure-rules/fa-version/header-image.jpg)
+
+# Rules derived from experience in infrastructure teams
+As a person who has been a member/team leader of an infrastructure team, I decided to write down my mistakes and experiences once for all.
+
+- Simple processes and architectures precedes complexity.
+- Using IaC (Infrastructure as Code) precedes documentation.
+- Tacking problems once noticed precedes procrastination.
+- Focusing on a single task with full attention precedes working on multiple task with less attention.
+- Sharing knowledge and experience precedes reliance on person who is single point of failure.
+- Immutable architecture precedes Mutable architecture.
+- Making repetitious and time-consuming processes with high chance of failure precedes handling them manually.
+- Maintaining Iac with VCS precedes maintaining them in servers or personal computers of infrastructure team members.
+- Backup/Restore mechanism as a part of every process precedes handling them later as separate tasks.
+- Having an epistle checklist for any important and unimportant deploy change precedes mental checklist.
+
+**P.S:** These rules are not absolute and may evolve during time.
+
+**P.S:** The real world usually differs from theory. If you need to break a rule, make sure it is broken intentionally,
+and have plans for its consequences and inform others.
  
-# قوانینی بر‌آمده از تجربه در تیم‌های زیرساخت
-به عنوان فردی که گاهی مسئول تیم‌ زیرساخت بودم یا گاهی بخشی از تیم زیرساخت، تصمیم گرفتم یک‌بار برای همیشه، اشتباهات و تجربیاتم رو به مکتوب و تبدیل به قانون کنم.
-
-- ساده‌بودن فرآیند‌ها و معماری‌ها، مقدم بر پیچیدگی است.
-- استفاده از ساختار IaC، مقدم بر مستندنویسی میباشد.
-- رفع مشکلات در لحظه‌ی فهمیدن، مقدم بر گردآوری لیست مشکلات و رفع در آینده نزدیک است.
-- تمرکز بر انجام یک کار به صورت عالی، مقدم بر انجام چندکار به صورت متوسط است.
-- اشتراک دانش و تجربه در تیم زیرساخت، مقدم بر ایجاد افرادی به عنوان Single Point Of Failure میباشد.
-- معماری Immutable مقدم بر معماری Mutable میباشد. 
-- خودکار سازی فر‌آیند‌های تکراری و زمان‌بر و با امکان اشتباه بالا،‌ مقدم بر انجام دستی آن‌هاست.
-- نگهداری IaC ها در VSCها، مقدم بر نگهداری آن‌ها در سرورها یا سیستم‌های شخصی اعضای تیم زیرساخت است.
-- سازوکارهای Backup/Restore به عنوان بخشی از هر فرآیند، مقدم بر بخشی جداگانه که بعدا اضافه خواهد شد، است. 
-- داشتن چک‌لیست‌های مکتوب برای هر تغییر یا دپلوی مهم و غیرمهم، مقدم بر چک‌لیست‌های ذهنی است.
-
-**پی‌نوشت:** این قوانین، نمیتوانند مطلق باشند و به مرور دچار تکامل میشوند.
-
-**پی‌نوشت:** دنیای واقعی معمولا متفاوت از تئوری‌هاست. اگر قانونی را شکستیم، آگاهانه بشکنیم وبرای رفع مشکلات ناشی از شکستن قانون‌مان، برنامه داشته باشیم و بقیه را مطلع کنیم. 
