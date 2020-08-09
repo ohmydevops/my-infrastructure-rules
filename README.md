@@ -14,8 +14,8 @@ As a person who has been a member/team leader of an infrastructure team, I decid
 - Backup/Restore mechanism as a part of every process precedes handling them later as separate tasks.
 - Having an epistle checklist for any important and unimportant deploy change precedes mental checklist.
 
-**P.S:** These rules are not absolute and may evolve during time.
+**P.S. :** These rules are not absolute and may evolve during time.
 
-**P.S:** The real world usually differs from theory. If you need to break a rule, make sure it is broken intentionally,
+**P.S. :** The real world usually differs from theory. If you need to break a rule, make sure it is broken intentionally,
 and have plans for its consequences and inform others.
  
